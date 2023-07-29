@@ -1,4 +1,4 @@
-# Top-Down DP
+# Top Down DP
 
 ### Introduction
 
